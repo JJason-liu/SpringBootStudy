@@ -1,0 +1,5 @@
+文档地址：https://docs.spring.io/spring-boot/docs/1.3.7.RELEASE/reference/htmlsingle/#boot-documentation
+
+
+
+@RequestMapping     映射http请求的访问地址用的
